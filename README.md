@@ -122,7 +122,7 @@ Data Cleaning → Feature Engineering → Descriptive Analysis → Hypothesis Te
 | Hasnaa Mohamed Azab | 23011069 |
 | Rana Mohamed Qassem | 23011075 |
 | Tahia Saad Abdel Hady | 23011056 |
-| Habiba Yahya Shaban Mahmoud | 23011066 |
+| Habiba Yahya Shabaan Mahmoud | 23011066 |
 | Habiba Hamdy Ali | 23011064 |
 | Habiba Samy Mohamed | 23010137 |
 | Mohamed Mostafa Abdel Hamid | 23011493 |
